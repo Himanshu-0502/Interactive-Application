@@ -32,7 +32,7 @@ This project is an interactive application that dynamically updates the time, gr
 
 ![Morning](Images/Morning%20Image.jpg)
 ![Afternoon](Images/Afternoon%20Image.jpg)
-![Night](Images/Night%20Image.jpg)
+![Night](Images/Evening%20Image.jpg)
 
 ## Files
 
