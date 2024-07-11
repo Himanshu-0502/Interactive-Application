@@ -32,7 +32,7 @@ function setBackground() {
         document.body.style.backgroundImage = "url('Images/Afternoon Image.jpg')";
         Greeting.textContent = 'Good Afternoon,';
     } else {
-        document.body.style.backgroundImage = "url('Images/Night Image.jpg')";
+        document.body.style.backgroundImage = "url('Images/Evening Image.jpg')";
         Greeting.textContent = 'Good Evening,';
     }
 }
