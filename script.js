@@ -26,7 +26,7 @@ function setBackground() {
     let hour = today.getHours();
 
     if (hour < 10) {
-        document.body.style.backgroundImage = "url('Images/Morning%20Image.jpg')";
+        document.body.style.backgroundImage = "url('Images/Morning Image.jpg')";
         Greeting.textContent = 'Good Morning,';
     } else if (hour < 18) {
         document.body.style.backgroundImage = "url('Images/Afternoon Image.jpg')";
