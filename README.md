@@ -15,12 +15,12 @@ This project is an interactive application that dynamically updates the time, gr
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Himanshu-0502/Landing-Page.git
+    git clone https://github.com/Himanshu-0502/Interactive-Application.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd Landing-Page
+    cd Interactive-Application
     ```
 
 3. Open `index.html` in your web browser:
