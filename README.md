@@ -37,8 +37,8 @@ This project is an interactive application that dynamically updates the time, gr
 ## Files
 
 - `index.html`: The main HTML file.
-- `script.js`: The JavaScript file containing the logic for the application.
 - `styles.css`: The CSS file for styling the application.
+- `script.js`: The JavaScript file containing the logic for the application.
 
 ## Acknowledgments
 
